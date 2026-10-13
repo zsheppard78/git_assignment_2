@@ -1,0 +1,6 @@
+CSCI 475 - Git Assignment 2
+
+This file was created to demonstrate Git branching,
+committing, and pull requests.
+
+Author: Zachary Sheppard
